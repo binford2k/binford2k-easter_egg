@@ -1,0 +1,7 @@
+fixtures:
+    symlinks:
+        node_encrypt: "#{source_dir}"
+    forge_modules:
+        stdlib: "puppetlabs/stdlib"
+        inifile: "puppetlabs/inifile"
+        puppet_authorization: "puppetlabs/puppet_authorization"

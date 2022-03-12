@@ -1,6 +1,6 @@
 {
   "name": "binford2k-easter_egg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "binford2k",
   "summary": "help help help help help",
   "license": "Apache-2.0",
@@ -99,7 +99,7 @@
     }
   ],
   "requirements": [
-    { "name": "puppet",   "version_requirement": ">=3.0.0 <6.0.0" }
+    { "name": "puppet",   "version_requirement": ">=3.0.0 <8.0.0" }
   ]
 }
 
